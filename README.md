@@ -8,7 +8,7 @@ By SONICTEAM
 ## Run
 
     pkg install python git -y
-    git clone https://github.com/USERNAME/eye-heart-rose.git
+    git clone https://github.com/yanihamri2008-cmd/eye-heart-rose.git
     cd eye-heart-rose
     python eye_heart_rose_v2.py
 
